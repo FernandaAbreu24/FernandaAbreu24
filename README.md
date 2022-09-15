@@ -1,7 +1,8 @@
 <div align="turn">
-  <h3> Hi! I'm Fernanda Abreu 👋 </h3>
-  <h4><i>I'm a student of Systems Analysis and Development, study English and am always looking to learn new things!
-    I am also looking for my first opportunity to enter the field.</i>
+  <h3>Welcome!<br>
+  I'm Fernanda Abreu</h3>
+  <h4>I'm a student of Systems Analysis and Development, I study English and I am always looking to learn new things!<br>
+    I am also looking for my first opportunity to enter the field.
   </h4> 
   
 </div>
