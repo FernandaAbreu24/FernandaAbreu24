@@ -1,11 +1,14 @@
-<div align="center">
-  <h1> Hi! I'm Fernanda Abreu 👋 </h1>
+<div align="turn">
+  <h3> Hi! I'm Fernanda Abreu 👋 </h3>
+  <h4><i>I'm a student of Systems Analysis and Development, study English and am always looking to learn new things!
+    I am also looking for my first opportunity to enter the field.</i>
+  </h4> 
   
 </div>
-<div align="center"><br>
+<div align="turn"><br>
   <a href="https://github.com/FernandaAbreu24">
-  <img height="160em" src="https://awesome-github-stats.azurewebsites.net/user-stats/FernandaAbreu24?cardType=github&theme=great-gatsby"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandaAbreu24&layout=compact&langs_count=7&theme=great-gatsby"/>
+  <img height="180em" src="https://awesome-github-stats.azurewebsites.net/user-stats/FernandaAbreu24?cardType=github&theme=great-gatsby"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandaAbreu24&layout=compact&langs_count=7&theme=great-gatsby"/>
 </div>
 <div style="display: inline_block" align="center">
  
